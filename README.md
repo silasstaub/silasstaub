@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @silasstaub
-- 👀 I’m interested in data engineering, games, books and some nerd stuff's
-- 🌱 I’m currently learning python and praticing my SQL skills
-- 📫 To reach me, just concat my e-mail (silas.ms98@gmail.com)
+- 👋 Hi, I’m @silasstaub,
+- 📊 I’m interested in data engineering, i am new on this, and i am enjoying a lot! Seeking for new experiences and working hard on my skills 💪
+- 🌱 I’m currently learning Python and praticing my SQL skills
+- 📫 To reach me is easy, just concat my email!
 
 <!---
 silasstaub/silasstaub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
