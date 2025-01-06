@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @silasstaub,
-- 📊 I’m interested in data engineering, i am new on this, and i am enjoying a lot! Seeking for new experiences and working hard on my skills 💪
-- 🌱 I’m currently learning Python and praticing my SQL skills
+- 📊 I’m interested in Data Science, i am new on this, and i am enjoying a lot! Seeking for new experiences and working hard on my skills 💪
 - 📫 To reach me is easy, just contact my email!
 
 <!---
